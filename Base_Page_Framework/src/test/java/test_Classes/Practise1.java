@@ -10,6 +10,11 @@ public class Practise1 {
 		System.out.println("In testB of priority 1");
 		assertEquals("Akash", "Akash");
 	}
+	@Test()
+	public void testA(){
+		System.out.println("In testB of priority 1");
+		assertEquals("Rathore", "Akash");
+	}
 	/*@Test(priority=1,groups={"smoke"})
 	public void testC(){
 		System.out.println("In testC of priority 1");
