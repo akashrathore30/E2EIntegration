@@ -13,7 +13,7 @@ public class Practise1 {
 	@Test()
 	public void testA(){
 		System.out.println("In testB of priority 1");
-		assertEquals("Rathore", "Akash");
+		assertEquals("Rathores", "Akash");
 	}
 	/*@Test(priority=1,groups={"smoke"})
 	public void testC(){
