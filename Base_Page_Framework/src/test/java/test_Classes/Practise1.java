@@ -8,7 +8,7 @@ public class Practise1 {
 	@Test
 	public void testB(){
 		System.out.println("In testB of priority 1");
-		assertEquals("Akash", "Akash");
+		assertEquals("Akash", "Akadfsh");
 	}
 	@Test()
 	public void testA(){
