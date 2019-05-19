@@ -7,7 +7,7 @@ public class Practise  {
 
 	@Test(priority=0, groups={"regression", "smoke"})
 	public void testA(){
-		System.out.println("In testA of priority 0");
+		System.out.println("In testA of priority 1");
 	}
 	@Test(priority=1,groups={"smoke"})
 	public void testB(){

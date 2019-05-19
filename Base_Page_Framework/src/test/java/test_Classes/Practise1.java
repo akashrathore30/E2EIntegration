@@ -12,8 +12,8 @@ public class Practise1 {
 	}
 	@Test()
 	public void testA(){
-		System.out.println("In testB of priority 1");
-		assertEquals("Akassdhs", "Akashjh");
+		System.out.println("Injs testB of priority 1");
+		assertEquals("Akashshgf", "Akash");
 	}
 	/*@Test(priority=1,groups={"smoke"})
 	public void testC(){
